@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to fun bank Loans related QA APIs"
+  contactDetails:
+    name: "Vaibhav Mahajan"
+    email: "vaibhav@gmail.com"
+  onCallSupport:
+    -(+91)66223344556
+    -(+91)55334455667
