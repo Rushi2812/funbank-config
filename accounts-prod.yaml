@@ -7,7 +7,7 @@ accounts:
   message: "Welcome to fun bank accounts related PROD APIs"
   contactDetails:
     name: "Lokesh Mahajan"
-    email: "31a97a0afebead0a88c0de2445c736ddcfd19ea175cb3ff3a7507a1a651af49b09e38aa5c0b3cf9cad3d57d0935a15b3"
+    email: "{cipher}31a97a0afebead0a88c0de2445c736ddcfd19ea175cb3ff3a7507a1a651af49b09e38aa5c0b3cf9cad3d57d0935a15b3"
   onCallSupport:
     -(+91)77223344556
     -(+91)88334455667
