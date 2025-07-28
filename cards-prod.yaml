@@ -1,0 +1,13 @@
+
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to fun bank cards related PROD APIs"
+  contactDetails:
+    name: "Lokesh Mahajan"
+    email: "lokeshgmail.com"
+  onCallSupport:
+    -(+91)88223344556
+    -(+91)77334455667
