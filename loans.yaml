@@ -1,0 +1,13 @@
+
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to fun bank Loans related local APIs"
+  contactDetails:
+    name: "Rushikesh Mahajan"
+    email: "rushi@gmail.com"
+  onCallSupport:
+    -(+91)11223344556
+    -(+91)22334455667
