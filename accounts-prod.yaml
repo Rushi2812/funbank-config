@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to fun bank accounts related local APIs"
+  contactDetails:
+    name: "Rushikesh Mahajan"
+    email: "Rushi@gmail.com"
+  onCallSupport:
+    -(+91)11223344556
+    -(+91)22334455667
