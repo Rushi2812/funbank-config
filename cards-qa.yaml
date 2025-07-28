@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to fun bank cards related QA APIs"
+  contactDetails:
+    name: "Vaibhav Mahajan"
+    email: "vaibhav@gmail.com"
+  onCallSupport:
+    -(+91)66223344556
+    -(+91)55334455667
