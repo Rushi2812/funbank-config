@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to fun bank Loans related PROD APIs"
+  contactDetails:
+    name: "Lokesh Mahajan"
+    email: "lokesh@gmail.com"
+  onCallSupport:
+    -(+91)88223344556
+    -(+91)77334455667
