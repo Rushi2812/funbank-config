@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to fun bank cards related QA APIs"
+  message: "Welcome to fun bank cards related UAT APIs"
   contactDetails:
     name: "Vaibhav Mahajan"
     email: "vaibhav@gmail.com"
