@@ -4,7 +4,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to fun bank accounts related QA APIs"
+  message: "Welcome to fun bank accounts related UAT APIs"
   contactDetails:
     name: "Vaibhav G Mahajan"
     email: "{cipher}4a9ec5e52c6b0970be0f45dbcf59869942b5c48a01999739f6e0fd61405dd3efd726694763c2b2bda603423b56edcb3a"
